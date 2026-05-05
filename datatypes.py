@@ -17,4 +17,9 @@ first name = "Givi"
 # ()-= %$*$ = "Guvi"
 
 use cases for declaring the variables
-    
+
+#Use cases for declaring the variables
+FirstName = "Guvi"
+FirstName = "Anees"
+firstname = "Anees"
+FIRSTNAME = "Anees"
