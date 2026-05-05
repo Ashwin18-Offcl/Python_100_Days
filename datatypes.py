@@ -5,4 +5,5 @@ print("variable")
 name = "Guvi"
 since = 2016
 print(name,since)
-
+country = "India"
+print(country)
