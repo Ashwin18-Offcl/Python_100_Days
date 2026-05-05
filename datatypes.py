@@ -3,4 +3,6 @@ print("Welcome to 100 days of python course")
 print("Data Type")
 print("variable")
 name = "Guvi"
-print(name)
+since = 2016
+print(name,since)
+
