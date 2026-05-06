@@ -29,4 +29,16 @@ phonenumber = str(phonenumber)
 print(phonenumber)
 print(type(phonenumber))
 
+print("\n")
+mybool=True
+print(type(mybool))
+mybool=str(mybool)
+print(type(mybool))
+print("\n")
+mybool="True"
+print(type(mybool))
+mybool=str(mybool)
+print(type(mybool))
+
+
       
