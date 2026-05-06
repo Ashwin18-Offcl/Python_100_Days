@@ -25,3 +25,9 @@ mybool2= False
 print(mybool)
 print(mybool2)
 print(type(mybool))
+
+a=None
+print(type(a))
+salary = 15000.254
+print(type(salary))
+
