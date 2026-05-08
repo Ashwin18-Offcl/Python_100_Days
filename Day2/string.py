@@ -11,7 +11,7 @@ print("find", mystr.find('o'))
 print("find", mystr.find('123'))
 print("startswith", mystr.startswith('Welcome'))
 print("endswith", mystr.endswith('Python'))
-# You give exact string 
+
 # New multiline string
 mystr = '''
 i am a good boy
@@ -28,3 +28,18 @@ print("count", mystr.count('o'))
 
 # Correct find usage
 print(mystr.find('good'))
+
+print("length", len(mystr))
+
+print(mystr.isalpha())
+
+# Correct numeric method
+print(mystr.isnumeric())
+
+# replace example
+print(mystr.replace("coder", "developer"))
+
+# Correct split method
+data = mystr.split()
+
+print(data)
