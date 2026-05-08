@@ -11,7 +11,7 @@ print("find", mystr.find('o'))
 print("find", mystr.find('123'))
 print("startswith", mystr.startswith('Welcome'))
 print("endswith", mystr.endswith('Python'))
-
+# You give exact string 
 # New multiline string
 mystr = '''
 i am a good boy
