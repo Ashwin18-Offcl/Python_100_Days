@@ -6,6 +6,12 @@ print("Uppercase", mystr.upper())
 print("Lowercase", mystr.lower())
 print("Index", mystr.index('day'))
 
+print("count", mystr.count('Python'))
+print("find", mystr.find('o'))
+print("find", mystr.find('123'))
+print("startswith", mystr.startswith('Welcome'))
+print("endswith", mystr.endswith('Python'))
+
 # New multiline string
 mystr = '''
 i am a good boy
@@ -14,13 +20,11 @@ i am an coder
 
 print(mystr)
 
-# Do not use in single quotes
 print(type(mystr))
 
-# Index always start from zero
 print('capitalizemystr', mystr.capitalize())
 print(mystr.count('a'))
 print("count", mystr.count('o'))
-print("count",mystr.count('Python'))
-print(mystr.find(5))
-print("find",mystr.find('o'))
+
+# Correct find usage
+print(mystr.find('good'))
