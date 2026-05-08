@@ -14,3 +14,7 @@ print("Uppercase",mystr.upper())
 print("Lowercase",mystr.lower())
 print("Index",mystr.index('day'))
 
+# Index always start from zero not other 
+print('capitalizemystr',mystr.capitalize())
+print(mystr.count('a'))
+print("count",mystr.count('o'))
