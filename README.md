@@ -1,5 +1,5 @@
 # 🐍 Python 100 Days Challenge
-
+![Python 100 Days Thumbnail](https://raw.githubusercontent.com/Ashwin18-Offcl/Python_100_Days/main/Python%20Thumbnail.png)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Days](https://img.shields.io/badge/Challenge-100%20Days-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Progress-Active-orange?style=for-the-badge)
